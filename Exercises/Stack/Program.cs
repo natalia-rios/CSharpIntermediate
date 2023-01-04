@@ -1,4 +1,4 @@
-﻿namespace Exercises
+﻿namespace Stack
 
 {
     class Program

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w508191\\RiderProjects\\Exercises\\Post\\Post.csproj",
+      "projectUniqueName": "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Post\\Post.csproj",
       "projectName": "Post",
-      "projectPath": "C:\\Users\\w508191\\RiderProjects\\Exercises\\Post\\Post.csproj",
+      "projectPath": "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Post\\Post.csproj",
       "packagesPath": "C:\\Users\\w508191\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w508191\\RiderProjects\\Exercises\\Post\\obj\\",
+      "outputPath": "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Post\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\w508191\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w508191\\RiderProjects\\Exercises\\Stopwatch\\Stopwatch.csproj": {}
+    "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w508191\\RiderProjects\\Exercises\\Stopwatch\\Stopwatch.csproj": {
+    "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w508191\\RiderProjects\\Exercises\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "C:\\Users\\w508191\\RiderProjects\\Exercises\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\w508191\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w508191\\RiderProjects\\Exercises\\Stopwatch\\obj\\",
+        "outputPath": "C:\\Users\\w508191\\Documents\\csharpintermediate\\Exercises\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w508191\\AppData\\Roaming\\NuGet\\NuGet.Config",
