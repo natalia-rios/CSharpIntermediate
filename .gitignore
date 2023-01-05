@@ -1,4 +1,3 @@
-/Exercises/.idea/
-/Exercises/*/obj
-/Exercises/*/bin/
-
+.idea/
+bin/
+obj/
